@@ -1,5 +1,3 @@
-#program untuk menghitung volume dan luas selimut tabung
-#import packages math
 import math
 
 
