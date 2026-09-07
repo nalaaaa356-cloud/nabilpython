@@ -1,4 +1,3 @@
-#program untuk cek apakah dua buah kata merupakan anagram
 kata1 = str(input("Masukkan kata pertama: "))
 kata2 = str(input("Masukkan kata kedua: "))
 
