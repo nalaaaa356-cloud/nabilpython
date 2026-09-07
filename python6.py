@@ -1,5 +1,3 @@
-#program untuk mengubah teks menjadi format tanggal
-#import packages datetime
 from datetime import datetime
 
 
