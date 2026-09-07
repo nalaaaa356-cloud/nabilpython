@@ -1,4 +1,3 @@
-#program untuk cek bilangan prima
 num = int(input("Masukkan bilangan= "))
 
 
