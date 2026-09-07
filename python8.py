@@ -1,4 +1,3 @@
-#program untuk menghitung jumlah karakter yang muncul dari sebuah deret
 n = int(input("Berapa jumlah karakter yang akan dimasukkan? "))
 
 
