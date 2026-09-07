@@ -1,5 +1,3 @@
-#program untuk mencari angka terbesar dari sebuah deret acak
-#import packages random dan pandas
 import random
 import pandas as pd
 
