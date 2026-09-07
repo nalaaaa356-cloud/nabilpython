@@ -1,4 +1,3 @@
-#program untuk menghilangkan tanda baca pada sebuah teks
 punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
 
 
