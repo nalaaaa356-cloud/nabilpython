@@ -1,5 +1,3 @@
-#program untuk menggabungkan beberapa list
-#import packages pandas
 import pandas as pd
 
 
