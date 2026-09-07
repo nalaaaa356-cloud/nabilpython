@@ -1,4 +1,3 @@
-#program untuk cek angka ganjil atau genap secara acak
 n1 = int(input("Masukkan angka pertama: "))
 n2 = int(input("Masukkan angka kedua: "))
 
