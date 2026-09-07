@@ -1,4 +1,3 @@
-#program simple calculator
 operator = str(input('Pilih operator "penambahan", "pengurangan", "perkalian", atau "pembagian": '))
 number1 = int(input("Masukkan angka pertama: "))
 number2 = int(input("Masukkan angka kedua: "))
