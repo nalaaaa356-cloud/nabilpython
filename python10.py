@@ -1,4 +1,3 @@
-#program untuk convert celcius ke fahrenheit
 celcius = float(input("Celcius= "))
 fahrenheit = celcius * 1.8 + 32
 
