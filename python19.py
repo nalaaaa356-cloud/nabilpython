@@ -1,11 +1,9 @@
-#program untuk mencari angka yang dapat dibagi dengan angka lain
 n = int(input("Berapa jumlah angka dalam deret? "))
 min = int(input("Berapa angka terkecil? "))
 max = int(input("Berapa angka terbesar? "))
 divisible = int(input("Berapa angka yang ingin kamu bagi? "))
 
 
-#import packages random
 import random
 deret = []
 for i in range(0,n):
