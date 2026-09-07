@@ -1,5 +1,3 @@
-#program untuk menghasilkan angka acak
-#import packages random
 import random
 
 
